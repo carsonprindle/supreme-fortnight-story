@@ -5,3 +5,5 @@ It had appeared that it had been accidentally been overwritten. The author attem
 Despite the fact that troubles occurred, members proceed to add additional sentences to the story.
 
 While one of the members had trouble with contributing the story, it came to a satisfying conclusion.
+
+When at finaly 10:50 he relized his issue with pushing back the repository and got the final version submited.
